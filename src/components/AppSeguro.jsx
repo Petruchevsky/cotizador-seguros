@@ -8,7 +8,7 @@ function AppSeguro() {
   const { cargando } = useCotizador();
 
   return (
-    <div className="h-screen flex flex-col justify-between">
+    <div className="min-h-screen overflow-auto flex flex-col justify-between">
 
       <header className="text-center">
         <h1 className="text-3xl mt-5 text-white text-center font-semibold text-shadow animate__animated animate__backInLeft sm:font-bold sm:text-4xl px-10 ">
