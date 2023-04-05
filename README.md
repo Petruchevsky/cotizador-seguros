@@ -14,7 +14,7 @@ Además, se utilizaron las siguientes bibliotecas especiales para estilos animad
 
 ## Demo
 
-Puedes ver la aplicación en funcionamiento haciendo click en el siguiente enlace: [https://master--magnificent-frangipane-776b8f.netlify.app/](https://master--magnificent-frangipane-776b8f.netlify.app/)
+Puedes ver la aplicación en funcionamiento haciendo click en el siguiente enlace: [https://cotizador-de-seguro-automotriz.web.app/](https://cotizador-de-seguro-automotriz.web.app/)
 
 ## Autor
 
