@@ -1,4 +1,4 @@
-# cotizador-seguros
+# Simulador de Cotizador de Seguro de Automóviles
 
 La siguiente aplicación es un simulador de cotización de un seguro automotríz, el cual es capaz de variar su precio en base 
 al tipo de vehículo, año de fabricación y tipo de plan de covertura.
