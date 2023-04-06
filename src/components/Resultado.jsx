@@ -14,9 +14,9 @@ function Resultado() {
   if(resultado === 0 || error) return null;
 
   return (
-    <div className='bg-gradient-to-r from-blue-700 to-indigo-400 shadow rounded-md mt-5 p-5 
+    <div className='bg-gradient-to-r from-blue-700 to-indigo-400 shadow rounded-md mt-5 p-3 
          animate__animated animate__jackInTheBox'>
-      <p className='pt-0 mb-3 text-white font-bold text-3xl'>Resumen</p>
+      <p className='pt-0 mb-3 text-white font-bold text-2xl'>Detalle Seguro</p>
       <p className='pt-0 text-white font-semibold text-1xl'>Marca: <span className='font-normal'>{marcaResumen.nombre}</span></p>
       <p className='pt-0 text-white font-semibold text-1xl'>Año: {yearResumen}</p>
       <p className='pt-0 text-white font-semibold text-1xl'>Plan: <span className='font-normal'>{planResumen.nombre}</span></p>

@@ -5,7 +5,7 @@ export const MARCAS = [
 ]
 
 export const PLANES = [
-  { id: 1, nombre: 'Basico' },
+  { id: 1, nombre: 'Básico' },
   { id: 2, nombre: 'Full Covertura' },
 ]
 

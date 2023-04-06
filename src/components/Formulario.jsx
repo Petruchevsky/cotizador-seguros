@@ -19,7 +19,7 @@ function Formulario() {
     <div className="shadow-gray-800">
       {error && <Error />}
       <form onSubmit={handleSubmit}>
-        <div className="my-5 mb-5 animate__animated animate__backInLeft ">
+        <div className="mb-5 animate__animated animate__backInLeft ">
           <label
             className="block mb-1 font-bold text-gray-500 uppercase"
             htmlFor="marca"
